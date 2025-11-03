@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jackson Han (韩善忠)"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist, AI Engineer, \n PhD in Physics"
+  bio              : "Data Scientist, AI Engineer, <br> PhD in Physics"
   location         : "Copenhagen, Denmark"
   employer         : #"Red Brick University"
   uri              : # URL

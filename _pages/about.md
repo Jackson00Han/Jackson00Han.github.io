@@ -1,22 +1,21 @@
 ---
 permalink: /
-title: "What I’m interested in"
+title: "Current focus"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div class="pill-row">
-  <span class="pill"><i class="fas fa-wave-square"></i> Time-series forecasting</span>
-  <span class="pill"><i class="fas fa-project-diagram"></i> Causal inference</span>
-  <span class="pill"><i class="fas fa-brain"></i> Deep learning</span>
-  <span class="pill"><i class="fas fa-robot"></i> Applied AI</span>
-</div>
+- <i class="fas fa-wave-square"></i> **Time-series forecasting**
+- <i class="fas fa-balance-scale"></i> **Causal inference for decisions**
+- <i class="fas fa-stream"></i> **Recommenders**
+- <i class="fas fa-cubes"></i> **AI Application**
+
 
 ## Tech stack
 **Languages & Data:** Python, SQL, C++ · pandas, NumPy  
-**ML/DL:** PyTorch, scikit-learn, XGBoost, LightGBM, TensorFlow/Keras  
+**ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, LightGBM
 **MLOps & Tools:** MLflow, Docker, Git, Linux, Jupyter/Colab  
 **Analytics & Viz:** matplotlib, Plotly, seaborn, Power BI  
 **Cloud:** AWS, Azure, GCP

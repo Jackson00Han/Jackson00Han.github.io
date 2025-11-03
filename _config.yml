@@ -24,13 +24,13 @@ repository               : "Jackson00Han/Jackson00Han.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jackson Han (韩善忠)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Scientist, AI Engineer, PhD in Physics"
+  location         : "Copenhagen, Denmark"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jackson.sz.han@gmail.com" 
 
   # Academic websites
   academia         : # URL

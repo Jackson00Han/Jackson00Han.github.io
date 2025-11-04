@@ -3,11 +3,11 @@ title: "Jane Street Real-Time Market Data Forecasting Competition"
 excerpt: "Financial market forecasting with LightGBM (wr2=0.0143 CV), Polars ETL (~20× faster than pandas), and fast memmap inference.<br/><img src='/images/js.jpg'>"
 collection: portfolio
 featured: true
-date: 2025-01-15
+date: 2025-11-01
 permalink: /portfolio/item-1/
 ---
 
-This project tackles a Jane Street–style market time-series task on Kaggle. Building a daily trading model in live-like conditions means dealing with fat tails, non-stationarity, and sudden shifts.
+This project tackles a [Jane Street market time-series task](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting) on Kaggle. To build a strong model, we have to handle fat tails, non-stationarity, and sudden regime shifts.
 
 To balance training time, complexity, and accuracy, I started with LightGBM. My offline cross-validation achieves a weighted zero-mean R² (WR2) ≈ 0.0143, which is competitive with the top public results on this task.
 

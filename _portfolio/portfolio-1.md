@@ -9,9 +9,9 @@ teaser: /images/js.png
 image:  /images/js.png
 ---
 
-This project tackles a Jane Street–style market time-series task on Kaggle. Building a daily trading model in live-like conditions means dealing with fat tails, non-stationarity, and abrupt regime shifts.
+This is a Kaggle competition project, host by Jane Street. To get a successful daily trading model in modern financial markets, many challenges have to be conqured proprightly, including fat-tailed distributions, non-stationary time series, and sudden shifts in market behavior.
 
-To balance training time, complexity, and accuracy, I trained a LightGBM model. Offline cross-validation achieves WR2 ≈ 0.0143—a strong, competitive result with clear headroom to improve.
+To ballence the training time, complexity and accuracy, I trained a LightGBM model. The offline CV weighted zero mean R squared score is round 0.014, with a big room to increase. This can be ranked Top 10 arund the world. Work link: [https://github.com/Jackson00Han/Jane-Street-Time-Series-Forecasting](https://github.com/Jackson00Han/Jane-Street-Time-Series-Forecasting)
 
 Highlights:
 
@@ -27,8 +27,4 @@ Multi-dimensional feature engineering: daily, same-time cross-day, and tick-hist
 
 Memory-mapped matrices (memmap): fast reloads and lower memory during training.
 
-
-Notes on deep models
-
-I also tried Temporal Fusion Transformer. Even with subsampling and a lighter configuration, training was slow, and inference became heavy with longer encoder windows. For large, high-frequency datasets, I’d use tree-based models as the first pass and only move to deep models when they clearly win on both accuracy and runtime.
 

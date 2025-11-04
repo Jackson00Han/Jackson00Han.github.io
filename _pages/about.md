@@ -19,7 +19,7 @@ redirect_from:
 
 {% if featured and featured.size > 0 %}
   <div class="archive">
-    {% for post in featured limit: 3 %}
+    {% for post in featured limit: 1 %}
       {% include archive-single.html type="grid" %}
     {% endfor %}
   </div>

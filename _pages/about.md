@@ -21,8 +21,9 @@ redirect_from:
    limit=6
    type="grid"
    entries_layout="grid"
+   show_excerpts=true          # 卡片里显示简短描述
 %}
 
-<p style="margin-top:.5rem">
+<p style="margin-top: .5rem;">
   <a class="btn" href="{{ '/portfolio/' | relative_url }}">See all projects →</a>
 </p>

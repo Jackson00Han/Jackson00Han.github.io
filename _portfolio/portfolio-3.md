@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Crisis Admissions"
+title: "COVID-19 Admission Urgency Prediction"
 excerpt: " It aims to predict the urgency with which a COVID-19 patient will need to be admitted to the hospital from the time of onset of symptoms. <br/><img src='/images/covid.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false

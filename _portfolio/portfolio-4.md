@@ -1,5 +1,5 @@
 ---
-title: "B-Quark Jet Classification"
+title: "b-jet Classification"
 excerpt: "Classification: Select b-jets (b-quark) from the bdecays of the Z0 boson decaying to a quark and an anti-quark <br/><img src='/images/bquark.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false

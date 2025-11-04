@@ -9,6 +9,8 @@ permalink: /portfolio/item-1/
 
 This project tackles Kaggle's [Jane Street real-time time series market data forecasting challenge](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting), addressing heavy tails, non-stationarity, and abrupt regime shifts.
 
+Repo: [Jackson00Han/Jane-Street-Time-Series-Forecasting](https://github.com/Jackson00Han/Jane-Street-Time-Series-Forecasting/tree/main)
+
 To balance training time, complexity, and accuracy, I started with LightGBM. My offline cross-validation achieves a weighted zero-mean R² (WR2) ≈ 0.0143 with a bigroom to improve, which is competitive with the top public results on this task. Online learning leaderboard: [link](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/leaderboard)
 
 **Highlights**
@@ -22,4 +24,3 @@ To balance training time, complexity, and accuracy, I started with LightGBM. My 
 
 Note: I also tried Temporal Fusion Transformer. Even with subsampling and a lighter configuration, training was slow, and inference became heavy with longer encoder windows. For large, high-frequency datasets, I’d use tree-based models as the first pass and only move to deep models when they clearly win on both accuracy and runtime.
 
-Repo: [Jackson00Han/Jane-Street-Time-Series-Forecasting](https://github.com/Jackson00Han/Jane-Street-Time-Series-Forecasting/tree/main)

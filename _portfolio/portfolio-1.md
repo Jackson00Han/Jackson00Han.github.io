@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/js.jpg'>"
+title: "Jane Street Real-Time Market Data Forecasting Competition"
+excerpt: "Financial market forecasting with LightGBM (wr2=0.0143 CV), Polars ETL (~20× faster than pandas), and fast memmap inference.<br/><img src='/images/js.jpg'>"
 collection: portfolio
 featured: true
 date: 2025-01-15

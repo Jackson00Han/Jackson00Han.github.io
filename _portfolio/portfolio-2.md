@@ -4,7 +4,7 @@ excerpt: "Thie project aims to explore the multivariate time series forecasting 
 collection: portfolio
 featured: false
 date: 2024-09-25
-permalink: /portfolio/item-1/
+permalink: /portfolio/portfolio-2/
 ---
 
 Thie project aims to illustrate the multivariate time series forecasting methods. Specifically, we will predict the energy load and price for the next 24 hours in energy market using the following 5 methods. Accurate energy load and price predictions are crucial for optimizing energy resources, reducing operational costs, and maintaining grid stability.
@@ -18,3 +18,5 @@ Thie project aims to illustrate the multivariate time series forecasting methods
     - Multi-Step Multi-Output (seq2seq)
 
 Repo: [Jackson00Han/Time-Series-Training](https://github.com/Jackson00Han/Time-Series-Training/blob/main/Multivariate_Time_Series_Forecasting_Hands_On.ipynb)
+
+The results by using PytorchForecasting will be updated soon.

@@ -22,7 +22,7 @@ redirect_from:
   <li>
     <a href="{{ p.url | relative_url }}"><strong>{{ p.title }}</strong></a>
     <span class="page__meta">— {{ p.date | date: "%Y-%m-%d" }}</span><br>
-    {{ p.excerpt | strip_html | truncate: 140 }}
+    {{ p.excerpt | markdownify }}
   </li>
 {% endfor %}
 </ul>

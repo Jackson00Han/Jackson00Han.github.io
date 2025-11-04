@@ -1,9 +1,9 @@
 ---
 title: "COVID-19 Admission Urgency Prediction"
-excerpt: " It aims to predict the urgency with which a COVID-19 patient will need to be admitted to the hospital from the time of onset of symptoms. <br/><img src='/images/covid.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
+excerpt: "Predicting the urgency of hospital admission for COVID-19 patients from symptom onset using EDA-driven features and classic ML baselines (KNN, logistic regression). <br/><img src='/images/covid.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false
-date: 2023-11-5
+date: 2023-10-01
 permalink: /portfolio/item-4/
 ---
 

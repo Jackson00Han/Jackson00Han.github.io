@@ -15,20 +15,20 @@ To balance training time, complexity, and accuracy, I trained a LightGBM model. 
 
 Highlights:
 
-Strong offline CV: weighted zero-mean R-squared score (WR2) ≈ 0.01435
+- Strong offline CV: weighted zero-mean R-squared score (WR2) ≈ 0.01435
 
-Fast pipeline with Polars: 20x faster than pandas for data preprocessing
+- Fast pipeline with Polars: 20x faster than pandas for data preprocessing
 
-Robust outlier & missing-value handling: 3σ clipping + TTL/forward-fill
+- Robust outlier & missing-value handling: 3σ clipping + TTL/forward-fill
 
-Config-first reproducibility: a single config.yaml controls data ranges, FE, CV, and model hyperparameters.
+- Config-first reproducibility: a single config.yaml controls data ranges, FE, CV, and model hyperparameters.
 
-Multi-dimensional feature engineering: daily, same-time cross-day, and tick-history features.
+- Multi-dimensional feature engineering: daily, same-time cross-day, and tick-history features.
 
-Memory-mapped matrices (memmap): fast reloads and lower memory during training.
+- Memory-mapped matrices (memmap): fast reloads and lower memory during training.
 
 
-Notes on deep models
+**Notes on deep models**
 
 I also tried Temporal Fusion Transformer. Even with subsampling and a lighter configuration, training was slow, and inference became heavy with longer encoder windows. For large, high-frequency datasets, I’d use tree-based models as the first pass and only move to deep models when they clearly win on both accuracy and runtime.
 

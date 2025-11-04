@@ -4,18 +4,30 @@ title: "Tools"
 permalink: /tools/
 ---
 
-### Languages & Data
-Python · SQL · C++ · pandas · NumPy
+### Languages
+Python · SQL · C++
+
+### Data & Analysis
+pandas · NumPy · Polars · Jupyter
 
 ### Machine Learning / Deep Learning
-scikit-learn · PyTorch · TensorFlow/Keras · XGBoost · LightGBM  
-Time-series (statsmodels, Prophet, darts)
+scikit-learn · PyTorch · TensorFlow/Keras · XGBoost · LightGBM
+Time series: statsmodels · PyTorch Forecasting · darts
 
 ### MLOps & Engineering
-MLflow (tracking) · Docker · Git/GitHub · Testing & reproducibility
+MLflow (tracking/registry) · Docker · Git/GitHub · pytest · CI/CD (GitHub Actions)
+
+### Data Engineering / Big Data
+BigQuery · Spark (PySpark) · Dask
+
+### Config & Data Provisioning
+YAML · TOML · JSON
 
 ### Analytics & Visualization
-matplotlib · Plotly · seaborn · Power BI
+matplotlib · seaborn · Plotly · Power BI
 
-### Cloud & Infra
-AWS · Azure · GCP · Linux · CI/CD (GitHub Actions)
+### Environments
+uv · conda · Poetry · pip/pip-tools · virtualenv
+
+### Cloud & OS
+AWS · Azure · GCP · Linux

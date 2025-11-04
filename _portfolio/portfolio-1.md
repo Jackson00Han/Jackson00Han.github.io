@@ -13,7 +13,9 @@ This project tackles a Jane Street–style market time-series task on Kaggle. Bu
 
 To balance training time, complexity, and accuracy, I trained a LightGBM model. Offline cross-validation achieves WR2 ≈ 0.0143—a strong, competitive result with clear headroom to improve.
 
-Highlights:
+Repo: [Jackson00Han/Jane-Street-Time-Series-Forecasting](https://github.com/Jackson00Han/Jane-Street-Time-Series-Forecasting)
+
+**Highlights:**
 
 - Strong offline CV: weighted zero-mean R-squared score (WR2) ≈ 0.01435
 

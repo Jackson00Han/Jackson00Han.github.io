@@ -15,15 +15,17 @@ redirect_from:
 
 
 ## Featured projects
-{% include archive.html
-   collection=site.portfolio
-   sort_by="date" sort_order="reverse"
-   limit=6
-   type="grid"
-   entries_layout="grid"
-   show_excerpts=true          # 卡片里显示简短描述
-%}
+{% assign featured = site.portfolio
+   | where_exp: "p", "p.featured == true"
+   | sort: "date" | reverse %}
 
-<p style="margin-top: .5rem;">
-  <a class="btn" href="{{ '/portfolio/' | relative_url }}">See all projects →</a>
-</p>
+{% if featured and featured.size > 0 %}
+<div class="entries-grid">
+  {% for post in featured limit:6 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+<p><a class="btn" href="{{ '/portfolio/' | relative_url }}">See all projects →</a></p>
+{% else %}
+<p class="notice--info">Add <code>featured: true</code> to items in <code>_portfolio/</code> to show them here.</p>
+{% endif %}

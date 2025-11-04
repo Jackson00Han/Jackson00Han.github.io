@@ -5,10 +5,10 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+{% include archive.html
+   collection=site.portfolio
+   sort_by="date" sort_order="reverse"
+   type="grid"
+   entries_layout="grid"
+   show_excerpts=true
+%}

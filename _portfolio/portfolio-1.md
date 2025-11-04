@@ -1,6 +1,6 @@
 ---
 title: "Jane Street Real-Time Market Data Forecasting Competition"
-excerpt: "Financial market forecasting with LightGBM (wr2=0.0143 CV), Polars ETL (~20× faster than pandas), and fast memmap inference.<br/><img src='/images/js.jpg'>"
+excerpt: "Financial market forecasting with LightGBM (wr2=0.0143 CV), Polars ETL (~20× faster than pandas), and fast memmap inference.<br/><img src='/images/js.jpg' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: true
 date: 2025-11-01

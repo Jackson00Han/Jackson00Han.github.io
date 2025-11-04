@@ -1,24 +1,15 @@
 ---
-title: "B-Quark Jet Classification"
-excerpt: "Classification: Select b-jets (b-quark) from the bdecays of the Z0 boson decaying to a quark and an anti-quark <br/><img src='/images/bquark.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
+title: "COVID-19 Crisis Admissions"
+excerpt: " It aims to predict the urgency with which a COVID-19 patient will need to be admitted to the hospital from the time of onset of symptoms. <br/><img src='/images/covid.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false
-date: 2023-05-25
-permalink: /portfolio/item-3/
+date: 2023-11-5
+permalink: /portfolio/item-4/
 ---
 
-This project aims to select b-jets (b-quark) from the decays of the Z0 boson decaying to a quark and an anti-quark. Simply speaking, it is a binary classification problem. I'll develop XGBoost, NN-based TensorFlow and PyTorch machine learning methods to address this problem.  
+This project is my final training program for the course 'Introduction to Data Science with Python' offered by Harvard University. It aims to predict the urgency with which a COVID-19 patient will need to be admitted to the hospital from the time of onset of symptoms. 
 
-## Dataset
+Repo: [Jackson00Han/Data-Science-Project-Diary](https://github.com/Jackson00Han/Data-Science-Project-Diary/blob/main/projects/Data_Science_with_Python/8.%20capstone%20project/4.%20roc/roc.ipynb)
 
-The dataset and topic is originally from my Applied Machine Learning course at Niels Bohr Institute. It was an amazing course, I have put the link of this course in the resources page. The data (that we will use here) includes:
-- prob_b: Probability of being a b-jet from the pointing of the tracks to the vertex
-- spheri: Sphericity of the event, i.e. how spherical it is.
-- pt2rel: The transverse momentum squared of the tracks relative to the jet axis, i.e. width of the jet.
-- multip: Multiplicity of the jet (in a relative measure).
-- bqvjet: b-quark vertex of the jet, i.e. the probability of a detached vertex.
-- ptlrel: Transverse momentum (in GeV) of possible lepton with respect to jet axis (about 0 if no leptons).
-- energy: Measured energy of the jet in GeV. Should be 45 GeV, but fluctuates. (we'll use it later when dealing with regression problem)
-- (target variable) isb: 1 if it is from a b-quark and 0, if it is not
 
-[Temperary link](https://jackson-han-data-insights.webflow.io/work/project-3)
+In order to gain a deeper understanding of the dataset for this project, I performed exploratory data analysis (EDA). I discovered that the age group '40-50' has the most need for hospital beds, and that fever is the most common symptom among these urgent cases. Using ROC curves for assessment, I constructed and evaluated two models: KNN and Logistic Regression, to predict emergency situations. The debates on model and threshold choices were framed in relation to various real-world situations.

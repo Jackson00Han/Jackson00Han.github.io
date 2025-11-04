@@ -1,5 +1,5 @@
 ---
-title: "Electricity Demand Forecasting"
+title: "Europe Electricity Demand Forecasting"
 excerpt: "Thie project aims to explore the multivariate time series forecasting methods on electricity market. <br/><img src='/images/electricity.png'>"
 collection: portfolio
 featured: false

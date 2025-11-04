@@ -7,7 +7,7 @@ date: 2025-11-01
 permalink: /portfolio/item-1/
 ---
 
-This project tackles a [Jane Street market time-series task](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting) on Kaggle. To build a strong model, we have to handle fat tails, non-stationarity, and sudden regime shifts.
+This project tackles Kaggle's [Jane Street real time time series market data forecasting challenge](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting), addressing heavy tails, non-stationarity, and abrupt regime shifts.
 
 To balance training time, complexity, and accuracy, I started with LightGBM. My offline cross-validation achieves a weighted zero-mean R² (WR2) ≈ 0.0143, which is competitive with the top public results on this task. Online learning leaderboard: [link](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/leaderboard)
 

@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ---------
-Ph.D. in Physics (Particle Physics), University of Copenhagen, Denmark    2019 – 2023  
-M.S. in Physics (Theoretical), Beijing Normal University, China           2016 – 2019  
-B.Eng. in Applied Physics, Yantai University, China                       2012 – 2016  
+Ph.D. in Physics (Particle Physics), Niels Bohr Institute, University of Copenhagen, Denmark.    2019 – 2023  
+M.S. in Physics (Theoretical), Beijing Normal University, China.           2016 – 2019  
+B.Eng. in Applied Physics, Yantai University, China.                       2012 – 2016  
 
-International Experience
+Exchange Program
 ------------------------
-Exchange Semester, Queen Mary University of London, UK (Fall 2022)  
-Visiting Student, Perimeter Institute for Theoretical Physics, Canada (Fall 2018)
+Visiting student, Queen Mary University of London, UK (Fall 2022)  
+Visiting student, Perimeter Institute for Theoretical Physics, Canada (Fall 2018)
 
 
 Work experience

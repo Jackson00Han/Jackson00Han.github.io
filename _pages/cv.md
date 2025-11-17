@@ -35,27 +35,31 @@ Key Words
   - LLM
   {: .list-inline}
 * Programming
-  * Python
-  * SQL
-  * R
-  * C++
+  - Python
+  - SQL
+  - R
+  - C++
+  {: .list-inline}
 * Data Science
-  * Data Cleaning
-  * Data Exploring
-  * Data Engineering
-  * Data Visualization
-  * Data Analysis
+  - Data Cleaning
+  - Data Exploring
+  - Data Engineering
+  - Data Visualization
+  - Data Analysis
+  {: .list-inline}
 * Math
-  * Linear Algebra
-  * Calculus
-  * Probability and Statistics
-  * Tensor Calculus
+  - Linear Algebra
+  - Calculus
+  - Probability and Statistics
+  - Tensor Calculus
+  {: .list-inline}
 * Frameworks
-  * Sciki-learn
-  * PyTorch, Lightning
-  * TensorFlow, Keras
-  * XGBoost
-  * LightGBM
+  - Sciki-learn
+  - PyTorch, Lightning
+  - TensorFlow, Keras
+  - XGBoost
+  - LightGBM
+  {: .list-inline}
 
 Publications
 ======
@@ -69,12 +73,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -3,11 +3,14 @@ layout: single
 title: "Resources"
 permalink: /resources/
 ---
+Thank you for joining me on this journey. I would like to share these resources,
+which have been invaluable in my training process.
+
 
 ### Books
-- *Hands-On Machine Learning* — Aurélien Géron
-- *Probabilistic Machine Learning* — Kevin Murphy
-- *Introduction to Statistical Learning (ISLP, Python)* — James et al.
+- **Statistics:** [Probability and Statistics for Engineering and the Sciences](https://books.google.dk/books?id=1wRbzgEACAAJ&source=gbs_book_other_versions)(Author: Jay L. Devore)
+- **Data Analysis:** [An Introduction to Statistical Learning with Application in Python](https://www.statlearning.com/) (Authors: Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani)
+- **Machine Learning:** [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://books.google.dk/books/about/Hands_on_Machine_Learning_with_Scikit_Le.html?id=I6qkDAEACAAJ&source=kp_book_description&redir_esc=y) (Author: Aurélien Géron)
 
 ### Courses
 - Andrew Ng — Machine Learning Specialization

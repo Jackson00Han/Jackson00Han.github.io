@@ -1,6 +1,6 @@
 ---
 title: "European Electricity Price Forecasting"
-excerpt: "Day-ahead electricity price forecasting using multiple ML models; XGBoost vs. LSTM. <br/><img src='/images/electricity.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
+excerpt: "Day-ahead electricity price forecasting using multiple ML models; XGBoost vs. LSTM. <br/><img src='/images/xgb_lstm_val.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false
 date: 2024-09-25
@@ -18,9 +18,14 @@ The data ranges from 2015 to 2019. The plot below shows that, even at a daily sc
 
 ![Price actual (daily average)](/images/price_actual_daily_average.png)
 
+_**Figure 1.** Daily average electricity price from 2015 to 2019, showing sharp spikes and shifting levels._
+
 The price-by-weekday-and-hour plot demonstrates a strong weekly and intraday seasonality.
 
 ![Price by weekday and hour](/images/price_weekday_hour.png)
+
+_**Figure 2.** Weekday–hour price heatmap revealing pronounced weekly and intraday seasonality._
+
 
 ### Model and setup
 
@@ -32,7 +37,7 @@ I tried a few approaches (including an LSTM) using the Darts library, but the be
   - generation mix and weather variables,  
   - derived features (rolling mean, standard deviation, differences, min, max, etc.).
 - Output:  
-  - median price forecast,  
+  - price point forecast,  
   - plus prediction intervals (e.g. 5% and 95% quantiles).
 
 The main baseline I compare against is very simple:  
@@ -52,13 +57,13 @@ Below is an example of the forecast vs actual prices for a few days on the valid
 
 ![validation forecasts](/images/xgb_lstm_val.png)
 
-_**Figure 1.** The model tracks the daily pattern and general level of prices quite well, but very sharp spikes are still hard to predict._
+_**Figure 3.** The model tracks the daily pattern and general level of prices quite well, but very sharp spikes are still hard to predict._
 
 Here is the forecast from the final model on the test set:
 
 ![test forecasts](/images/xgb_prob_test.png)
 
-_**Figure 2.** The probabilistic XGBoost model provides both point forecasts and prediction intervals on the test set._
+_**Figure 4.** The probabilistic XGBoost model provides both point forecasts and prediction intervals on the test set._
 
 ---
 

@@ -28,42 +28,18 @@ Work Experience
 Key Words
 ======
 * Machine Learning
-  {: .list-inline}
-  - Time Series
-  - Recommenders
-  - Supervised/Unsupervised
-  - NLP
-  - LLM
   
 * Programming
-  {: .list-inline}
-  - Python
-  - SQL
-  - R
-  - C++
 
 * Data Science
-  {: .list-inline}
-  - Data Cleaning
-  - Data Exploring
-  - Data Engineering
-  - Data Visualization
-  - Data Analysis
 
 * Math
-  {: .list-inline}
-  - Linear Algebra
-  - Calculus
-  - Probability and Statistics
-  - Tensor Calculus
 
 * Frameworks
-  {: .list-inline}
-  - Sciki-learn
-  - PyTorch, Lightning
-  - TensorFlow, Keras
-  - XGBoost
-  - LightGBM
+  * Sciki-learn
+  * PyTorch, Lightning
+  * TensorFlow, Keras
+  * XGBoost, LightGBM
 
 
 Publications

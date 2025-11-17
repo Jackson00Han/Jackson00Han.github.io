@@ -23,3 +23,5 @@ which have been invaluable in my training process.
 
 ### Videos:
 **Machine Learning:** [StatQuest with Josh Starmer (an easy-to-follow YouTube channel. BAM!!!)](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+
+I will keep updating once I find any helpful resources. I would appreciate it if you would like to recommend any interesting resources. (email: jackson.sz.han@gmail.com)

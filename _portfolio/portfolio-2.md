@@ -10,11 +10,13 @@ permalink: /portfolio/item-2/
 This is a brief intro to my recent project where I trained a robust model to forecast **day-ahead hourly electricity prices**.  
 The goal is to predict the next 24 hours of prices using historical prices, load, generation mix, and weather.
 
+Repo: [Jackson00Han/energy_market_forecasting](https://github.com/Jackson00Han/energy_market_forecasting/tree/main/main).
+
 ### Data
 
 The data ranges from 2015 to 2019. The plot below shows that, even at a daily scale, the price series has sharp spikes and shifting levels, which makes it difficult to forecast reliably.
 
-[Price actual (daily average)](/images/price_actual_daily_average.png)
+![Price actual (daily average)](/images/price_actual_daily_average.png)
 
 The price-by-weekday-and-hour plot demonstrates a strong weekly and intraday seasonality.
 
@@ -60,7 +62,8 @@ _**Figure 2.** The probabilistic XGBoost model provides both point forecasts and
 
 ---
 
-PS: instead of using darts, in the fold [training_his](https://github.com/Jackson00Han/energy_market_forecasting/tree/main/training_his), you may find my previous practice with different types of classic models by hand. They are:
+PS: In addition to the Darts-based experiments above, you can also find my earlier implementations of several classic time-series models in the `training_his` folder of this repository:
+[training_his](https://github.com/Jackson00Han/energy_market_forecasting/tree/main/training_his). These include:
 
 - XGBoost  
   - Single-Step Single-Output + Autoregressive  
@@ -70,6 +73,4 @@ PS: instead of using darts, in the fold [training_his](https://github.com/Jackso
   - Multi-Step Multi-Output (single shot, seq2vec)  
   - Multi-Step Multi-Output (seq2seq)
 
-Repo: [Jackson00Han/Time-Series-Training](https://github.com/Jackson00Han/Time-Series-Training/blob/main/Multivariate_Time_Series_Forecasting_Hands_On.ipynb)
 
-The results using PyTorch Forecasting will be updated soon.

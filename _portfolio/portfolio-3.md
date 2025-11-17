@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Admission Urgency Prediction"
-excerpt: "Predicting the urgency of hospital admission for COVID-19 patients from symptom onset using EDA-driven features and classic ML baselines (KNN, logistic regression). <br/><img src='/images/covid.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
+excerpt: "Predicting the urgency of hospital admission for COVID-19 patients from symptom onset using EDA-driven features and classic ML models : KNN, logistic regression. <br/><img src='/images/covid.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false
 date: 2023-10-01

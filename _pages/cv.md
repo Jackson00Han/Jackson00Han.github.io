@@ -33,7 +33,7 @@ Work Experience
 
 Key Words
 ======
-• AI • Machine Learning • Programming • Data Science • Math
+• AI  • Machine Learning  • Deep Learning  • Programming  • Data Science  • Math
 
 • Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
 

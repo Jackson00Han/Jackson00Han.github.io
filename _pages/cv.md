@@ -11,12 +11,18 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Physics (Particle Physics), Niels Bohr Institute, University of Copenhagen, Denmark.    2019 – 2023  
-M.S. in Physics (Theoretical), Beijing Normal University, China.           2016 – 2019  
-B.Eng. in Applied Physics, Yantai University, China.                       2012 – 2016  
 
-Exchange, Queen Mary University of London, UK. Fall 2022  
-Exchange, Perimeter Institute for Theoretical Physics, Canada. Fall 2018
+- **Ph.D. in Physics (Quantum, Gravity, Black Holes)**  
+  Niels Bohr Institute, University of Copenhagen, Denmark · 2019 – 2023  
+
+- **M.S. in Physics (Black Holes)**  
+  Beijing Normal University, China · 2016 – 2019  
+
+- **B.Eng. in Applied Physics**  
+  Yantai University, China · 2012 – 2016  
+
+- Exchange, Queen Mary University of London, UK. Fall 2022  
+- Exchange, Perimeter Institute for Theoretical Physics, Canada. Fall 2018
 
 
 Work Experience

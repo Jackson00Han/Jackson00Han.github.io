@@ -10,10 +10,16 @@ redirect_from:
 {% include base_path %}
 
 Hello!
-I'm Jackson Han, Chinese name: 韩善忠 (Hán Shànzhōng), a PhD graduate in theoretical physics, specializing in black holes, gravity theory, and quantum field theory. Currently, I work as a Machine Learning Engineer and Data Scientist, driven by a passion for integrating cutting-edge technology to make a positive impact on our society.
+I'm Jackson Han, Chinese name: 韩善忠 (Hán Shànzhōng), a PhD graduate in theoretical physics, specializing in black holes, general relativity, and quantum field theory. Currently, I work as a Machine Learning Engineer and Data Scientist, driven by a passion for integrating cutting-edge technology to make a positive impact on our society.
 
 
 ![]({{ base_path }}/images/me.jpg){: .align-center}
+
+Key Words
+======
+AI · Machine Learning · Deep Learning · Programming · Data Science · Math  
+
+Frameworks: Scikit-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM
 
 
 Education
@@ -36,15 +42,9 @@ Education
 
 Work Experience
 ======
-* 2024-present: ML Engineer/Data Scientist
-  * Company: LifeBonder (StartUp), Denmark
-  * Duties: data analysis, AI model training and deployment
-
-Key Words
-======
-• AI  • Machine Learning  • Deep Learning  • Programming  • Data Science  • Math 
-
-• Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
+- **ML Engineer / Data Scientist**, LifeBonder (startup), Denmark · 2024 – present  
+  - Data analysis  
+  - Machine learning model training and deployment
 
 
 Certificates
@@ -68,7 +68,7 @@ Certificates
   
 Selected Talks
 ======
-- [Conference: 23th International Conference on General Relativity and Gravitation](https://www.koushare.com/video/details/29268)
+- [Conference: 23rd International Conference on General Relativity and Gravitation](https://www.koushare.com/video/details/29268)
 - [Conference: 25th Capra Meeting on Radiation Reaction in General Relativity](https://www.caprameeting.org/capra-meetings/capra-25)
 - [The Weyl double copy in vacuum spacetimes (中文)](https://cjqs.tju.edu.cn/info/1081/2981.htm)
 

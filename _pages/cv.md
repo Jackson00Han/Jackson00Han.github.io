@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+![]({{ base_path }}/images/me.jpg){: .align-center}
+
+
+
 Key Words
 ======
 • AI  • Machine Learning  • Deep Learning  • Programming  • Data Science  • Math 
@@ -28,8 +33,10 @@ Education
 - **B.Eng. in Applied Physics**  
   2012 – 2016, Yantai University, China  
 
-- **Exchange** Fall 2022, Queen Mary University of London, UK
-- **Exchange** Fall 2018, Perimeter Institute for Theoretical Physics, Canada
+- **Exchange** 
+  Fall 2022, Queen Mary University of London, UK
+- **Exchange** 
+  Fall 2018, Perimeter Institute for Theoretical Physics, Canada
 
 
 Work Experience

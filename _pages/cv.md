@@ -33,7 +33,7 @@ Work Experience
 
 Key Words
 ======
-• Machine Learning • Programming • Data Science • Math
+• AI • Machine Learning • Programming • Data Science • Math
 
 • Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
 
@@ -48,6 +48,6 @@ Selected Talks
 ======
 - [Conference: 23th International Conference on General Relativity and Gravitation](https://www.koushare.com/video/details/29268)
 - [Conference: 25th Capra Meeting on Radiation Reaction in General Relativity](https://www.caprameeting.org/capra-meetings/capra-25)
-- [The Weyl double copy in vacuum spacetimes (video: 中文)](https://cjqs.tju.edu.cn/info/1081/2981.htm)
+- [The Weyl double copy in vacuum spacetimes (中文)](https://cjqs.tju.edu.cn/info/1081/2981.htm)
 
   

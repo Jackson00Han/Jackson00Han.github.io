@@ -29,7 +29,7 @@ main:
   - title: "About Me"
     url: /cv/
 
-  - title: "resources"
+  - title: "Resources"
     url: /resources/
     
   # - title: "CV"

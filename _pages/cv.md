@@ -15,26 +15,46 @@ Ph.D. in Physics (Particle Physics), Niels Bohr Institute, University of Copenha
 M.S. in Physics (Theoretical), Beijing Normal University, China.           2016 – 2019  
 B.Eng. in Applied Physics, Yantai University, China.                       2012 – 2016  
 
-Exchange Program
-------------------------
-Visiting student, Queen Mary University of London, UK (Fall 2022)  
-Visiting student, Perimeter Institute for Theoretical Physics, Canada (Fall 2018)
+Exchange, Queen Mary University of London, UK. Fall 2022  
+Exchange, Perimeter Institute for Theoretical Physics, Canada. Fall 2018
 
 
-Work experience
+Work Experience
 ======
 * 2024-present: ML Engineer/Data Scientist
-  * LifeBonder (StartUp)
-  * Duties includes: data analysis, AI model training and deployment
-  
-Skills
+  * LifeBonder (StartUp), Denmark
+  * Duties: data analysis, AI model training and deployment
+
+Key Words
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Time Series
+  * Recommenders
+  * Supervised/Unsupervised
+  * NLP
+  * LLM
+* Programming
+  * Python
+  * SQL
+  * R
+  * C++
+* Data Science
+  * Data Cleaning
+  * Data Exploring
+  * Data Engineering
+  * Data Visualization
+  * Data Analysis
+* Math
+  * Linear Algebra
+  * Calculus
+  * Probability and Statistics
+  * Tensor Calculus
+* Frameworks
+  * Sciki-learn
+  * PyTorch, Lightning
+  * TensorFlow, Keras
+  * XGBoost
+  * LightGBM
 
 Publications
 ======

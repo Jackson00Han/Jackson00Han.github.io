@@ -50,6 +50,7 @@ Selected Publications
 Selected Talks
 ======
 - [Conference: 23th International Conference on General Relativity and Gravitation](https://www.koushare.com/video/details/29268)
-- [Talk:The Weyl double copy in vacuum spacetimes (中文)](https://cjqs.tju.edu.cn/info/1081/2981.htm)
+- [Conference: 25th Capra Meeting on Radiation Reaction in General Relativity](https://www.caprameeting.org/capra-meetings/capra-25)
+- [The Weyl double copy in vacuum spacetimes (video: 中文)](https://cjqs.tju.edu.cn/info/1081/2981.htm)
 
   

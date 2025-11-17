@@ -13,14 +13,6 @@ redirect_from:
 ![]({{ base_path }}/images/me.jpg){: .align-center}
 
 
-
-Key Words
-======
-• AI  • Machine Learning  • Deep Learning  • Programming  • Data Science  • Math 
-
-• Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
-
-
 Education
 ======
 
@@ -45,6 +37,11 @@ Work Experience
   * Company: LifeBonder (StartUp), Denmark
   * Duties: data analysis, AI model training and deployment
 
+Key Words
+======
+• AI  • Machine Learning  • Deep Learning  • Programming  • Data Science  • Math 
+
+• Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
 
 
 Certificates

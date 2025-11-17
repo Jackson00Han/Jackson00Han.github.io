@@ -30,7 +30,6 @@ Education
 
 - **Exchange** Fall 2022, Queen Mary University of London, UK
 - **Exchange** Fall 2018, Perimeter Institute for Theoretical Physics, Canada
-- **Professional Training** 
 
 
 Work Experience
@@ -55,18 +54,10 @@ Certificates
 
 - [Professional Certificate in Learning Python for Data Science](https://credentials.edx.org/credentials/11067c30d1834e49a460dbbdc1c26df3/)
 
-Verified Certificate for CS50's Introduction to Databases with SQL — Harvard University (HarvardX)
+- [CS50's Introduction to Databases with SQL](https://courses.edx.org/certificates/d6e46ad7d751443c8ef1fd6639b86e35)
 
-Verified Certificate for CS50's Introduction to Programming with Python — Harvard University (HarvardX)
+- [CS50's Introduction to Programming with Python](https://courses.edx.org/certificates/46a35f5414e6446b97c113f8632ad91c)
 
-Verified Certificate for Fat Chance: Probability from the Ground Up — Harvard University (HarvardX)
-
-
-Selected Publications
-======
-- [The Weyl double copy in vacuum spacetimes with a cosmological constant (JHEP)](https://link.springer.com/article/10.1007/JHEP09(2022)238)
-- [Weyl double copy and massless free-fields in curved spacetimes (CQG)](https://iopscience.iop.org/article/10.1088/1361-6382/ac96c2)
-- [Circular orbit of a test particle and phase transition of a black hole (PRD)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.065016)
   
 Selected Talks
 ======
@@ -74,4 +65,8 @@ Selected Talks
 - [Conference: 25th Capra Meeting on Radiation Reaction in General Relativity](https://www.caprameeting.org/capra-meetings/capra-25)
 - [The Weyl double copy in vacuum spacetimes (中文)](https://cjqs.tju.edu.cn/info/1081/2981.htm)
 
-  
+Selected Publications
+======
+- [The Weyl double copy in vacuum spacetimes with a cosmological constant (JHEP)](https://link.springer.com/article/10.1007/JHEP09(2022)238)
+- [Weyl double copy and massless free-fields in curved spacetimes (CQG)](https://iopscience.iop.org/article/10.1088/1361-6382/ac96c2)
+- [Circular orbit of a test particle and phase transition of a black hole (PRD)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.065016)

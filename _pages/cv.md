@@ -9,20 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+Key Words
+======
+• AI  • Machine Learning  • Deep Learning  • Programming  • Data Science  • Math 
+
+• Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
+
+
 Education
 ======
 
 - **Ph.D. in Physics (Quantum, Gravity, Black Holes)**  
-  Niels Bohr Institute, University of Copenhagen, Denmark · 2019 – 2023  
+  2019 – 2023, Niels Bohr Institute, University of Copenhagen, Denmark 
 
 - **M.S. in Physics (Black Holes)**  
-  Beijing Normal University, China · 2016 – 2019  
+  2016 – 2019, Beijing Normal University, China
 
 - **B.Eng. in Applied Physics**  
-  Yantai University, China · 2012 – 2016  
+  2012 – 2016, Yantai University, China  
 
-- **Exchange** Queen Mary University of London, UK. Fall 2022  
-- **Exchange** Perimeter Institute for Theoretical Physics, Canada. Fall 2018
+- **Exchange** Fall 2022, Queen Mary University of London, UK
+- **Exchange** Fall 2018, Perimeter Institute for Theoretical Physics, Canada
 - **Professional Training** 
 
 
@@ -32,11 +39,7 @@ Work Experience
   * Company: LifeBonder (StartUp), Denmark
   * Duties: data analysis, AI model training and deployment
 
-Key Words
-======
-• AI  • Machine Learning  • Deep Learning  • Programming  • Data Science  • Math
 
-• Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
 
 Certificates
 ======

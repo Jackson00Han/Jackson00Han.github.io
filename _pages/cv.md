@@ -50,8 +50,9 @@ Key Words
 
 Selected Publications
 ======
-- [The Weyl double copy in vacuum spacetimes with a cosmological constant](https://link.springer.com/article/10.1007/JHEP09(2022)238)
-- [Weyl double copy and massless free-fields in curved spacetimes](https://iopscience.iop.org/article/10.1088/1361-6382/ac96c2)
+- [The Weyl double copy in vacuum spacetimes with a cosmological constant (JHEP)](https://link.springer.com/article/10.1007/JHEP09(2022)238)
+- [Weyl double copy and massless free-fields in curved spacetimes (CQG)](https://iopscience.iop.org/article/10.1088/1361-6382/ac96c2)
+- [Circular orbit of a test particle and phase transition of a black hole (PRD)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.065016)
   
 Selected Talks
 ======

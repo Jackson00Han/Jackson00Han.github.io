@@ -9,7 +9,7 @@ which have been invaluable in my training process.
 
 ### Books
 - **Statistics:** [Probability and Statistics for Engineering and the Sciences (Author: Jay L. Devore)](https://books.google.dk/books?id=1wRbzgEACAAJ&source=gbs_book_other_versions)
-- **Data Analysis:** [An Introduction to Statistical Learning with Application in Python (Authors: Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani)](https://www.statlearning.com/)
+- **Data Science:** [An Introduction to Statistical Learning with Application in Python (Authors: Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani)](https://www.statlearning.com/)
 - **Machine Learning:** [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Author: Aurélien Géron)](https://books.google.dk/books/about/Hands_on_Machine_Learning_with_Scikit_Le.html?id=I6qkDAEACAAJ&source=kp_book_description&redir_esc=y)
 - **Machine Learning:** [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2(Authors: Sebastian Raschka, Vahid Mirjalili)](https://books.google.dk/books/about/Python_Machine_Learning.html?id=n1cjyAEACAAJ&redir_esc=y) 
   
@@ -23,5 +23,13 @@ which have been invaluable in my training process.
 
 ### Videos:
 **Machine Learning:** [StatQuest with Josh Starmer (an easy-to-follow YouTube channel. BAM!!!)](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+
+### Webs:
+- [Kaggle](https://www.kaggle.com/)
+- [edX](https://www.edx.org/)
+- [GitHub](https://github.com/)
+- [DataCamp](https://www.datacamp.com/)
+- [Hugging Face](https://huggingface.co/)
+- [Coursera](https://www.coursera.org/)
 
 I will keep updating once I find any helpful resources. I would appreciate it if you would like to recommend any interesting resources. (email: jackson.sz.han@gmail.com)

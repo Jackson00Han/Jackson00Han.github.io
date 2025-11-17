@@ -60,6 +60,8 @@ _**Figure 2.** The probabilistic XGBoost model provides both point forecasts and
 
 ---
 
+PS: instead of using darts, in the fold [training_his](https://github.com/Jackson00Han/energy_market_forecasting/tree/main/training_his), you may find my previous practice with different types of classic models by hand. They are:
+
 - XGBoost  
   - Single-Step Single-Output + Autoregressive  
 - CNN-LSTM-DNN  

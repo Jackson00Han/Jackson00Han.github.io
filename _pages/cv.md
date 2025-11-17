@@ -42,15 +42,14 @@ Key Words
   * XGBoost, LightGBM
 
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- [The Weyl double copy in vacuum spacetimes with a cosmological constant](https://link.springer.com/article/10.1007/JHEP09(2022)238)
+- [Weyl double copy and massless free-fields in curved spacetimes](https://iopscience.iop.org/article/10.1088/1361-6382/ac96c2)
   
-Talks
+Selected Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+- [Conference: 23th International Conference on General Relativity and Gravitation](https://www.koushare.com/video/details/29268)
+- [Talk:The Weyl double copy in vacuum spacetimes (中文)](https://cjqs.tju.edu.cn/info/1081/2981.htm)
+
   

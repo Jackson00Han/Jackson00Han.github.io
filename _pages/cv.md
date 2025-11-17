@@ -11,39 +11,21 @@ redirect_from:
 
 Education
 ---------
-**University of Copenhagen, Niels Bohr Institute (NBIA)** – Copenhagen, Denmark  
-Ph.D. in Particle Physics, Sep 2019 – Jun 2023  
+Ph.D. in Physics (Particle Physics), University of Copenhagen, Denmark    2019 – 2023  
+M.S. in Physics (Theoretical), Beijing Normal University, China           2016 – 2019  
+B.Eng. in Applied Physics, Yantai University, China                       2012 – 2016  
 
-**Beijing Normal University** – Beijing, China  
-M.S. in Theoretical Physics, Sep 2016 – Jun 2019  
+International Experience
+------------------------
+Exchange Semester, Queen Mary University of London, UK (Fall 2022)  
+Visiting Student, Perimeter Institute for Theoretical Physics, Canada (Fall 2018)
 
-**Yantai University** – Yantai, China  
-B.Eng. in Applied Physics, Sep 2012 – Jun 2016  
-
-Exchange & Visiting Programs
-----------------------------
-**Queen Mary University of London** – London, UK  
-Exchange Ph.D. Student, Fall 2022  
-
-**Perimeter Institute for Theoretical Physics** – Waterloo, Canada  
-Visiting Master’s Student, Fall 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-present: ML Engineer/Data Scientist
+  * LifeBonder (StartUp)
+  * Duties includes: data analysis, AI model training and deployment
   
 Skills
 ======

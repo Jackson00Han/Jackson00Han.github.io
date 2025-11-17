@@ -1,5 +1,5 @@
 ---
-title: "European Electricity Price Forecasting"
+title: "European Energy Market Forecasting"
 excerpt: "Day-ahead electricity price forecasting using multiple ML models; XGBoost vs. LSTM. <br/><img src='/images/xgb_lstm_val_abs.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false

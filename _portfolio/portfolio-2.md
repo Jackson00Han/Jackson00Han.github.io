@@ -20,7 +20,7 @@ The data ranges from 2015 to 2019. The plot below shows that, even at a daily sc
 
 The price-by-weekday-and-hour plot demonstrates a strong weekly and intraday seasonality.
 
-[Price by weekday and hour](/images/price_weekday_hour.png)
+![Price by weekday and hour](/images/price_weekday_hour.png)
 
 ### Model and setup
 
@@ -50,13 +50,13 @@ On a held-out test period, the XGBoost model:
 
 Below is an example of the forecast vs actual prices for a few days on the validation set:
 
-[validation forecasts](/images/xgb_lstm_val.png)
+![validation forecasts](/images/xgb_lstm_val.png)
 
 _**Figure 1.** The model tracks the daily pattern and general level of prices quite well, but very sharp spikes are still hard to predict._
 
 Here is the forecast from the final model on the test set:
 
-[test forecasts](/images/xgb_prob_test.png)
+![test forecasts](/images/xgb_prob_test.png)
 
 _**Figure 2.** The probabilistic XGBoost model provides both point forecasts and prediction intervals on the test set._
 

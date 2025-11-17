@@ -21,8 +21,8 @@ Education
 - **B.Eng. in Applied Physics**  
   Yantai University, China · 2012 – 2016  
 
-- Exchange, Queen Mary University of London, UK. Fall 2022  
-- Exchange, Perimeter Institute for Theoretical Physics, Canada. Fall 2018
+- **Exchange** Queen Mary University of London, UK. Fall 2022  
+- **Exchange** Perimeter Institute for Theoretical Physics, Canada. Fall 2018
 
 
 Work Experience
@@ -33,19 +33,9 @@ Work Experience
 
 Key Words
 ======
-* Machine Learning
-  
-* Programming
+• Machine Learning • Programming • Data Science • Math
 
-* Data Science
-
-* Math
-
-* Frameworks
-  * Sciki-learn
-  * PyTorch, Lightning
-  * TensorFlow, Keras
-  * XGBoost, LightGBM
+• Frameworks (Sciki-learn, PyTorch, Lightning, TensorFlow, Keras, XGBoost, LightGBM)
 
 
 Selected Publications

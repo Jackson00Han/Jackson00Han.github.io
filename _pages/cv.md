@@ -22,44 +22,49 @@ Exchange, Perimeter Institute for Theoretical Physics, Canada. Fall 2018
 Work Experience
 ======
 * 2024-present: ML Engineer/Data Scientist
-  * LifeBonder (StartUp), Denmark
+  * Company: LifeBonder (StartUp), Denmark
   * Duties: data analysis, AI model training and deployment
 
 Key Words
 ======
 * Machine Learning
+  {: .list-inline}
   - Time Series
   - Recommenders
   - Supervised/Unsupervised
   - NLP
   - LLM
-  {: .list-inline}
+  
 * Programming
+  {: .list-inline}
   - Python
   - SQL
   - R
   - C++
-  {: .list-inline}
+
 * Data Science
+  {: .list-inline}
   - Data Cleaning
   - Data Exploring
   - Data Engineering
   - Data Visualization
   - Data Analysis
-  {: .list-inline}
+
 * Math
+  {: .list-inline}
   - Linear Algebra
   - Calculus
   - Probability and Statistics
   - Tensor Calculus
-  {: .list-inline}
+
 * Frameworks
+  {: .list-inline}
   - Sciki-learn
   - PyTorch, Lightning
   - TensorFlow, Keras
   - XGBoost
   - LightGBM
-  {: .list-inline}
+
 
 Publications
 ======

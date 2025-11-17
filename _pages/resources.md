@@ -32,4 +32,5 @@ which have been invaluable in my training process.
 - [Hugging Face](https://huggingface.co/)
 - [Coursera](https://www.coursera.org/)
 
-I will keep updating once I find any helpful resources. I would appreciate it if you would like to recommend any interesting resources. (email: jackson.sz.han@gmail.com)
+I’ll keep updating this page as I discover new helpful resources.  
+If you’d like to recommend anything interesting, feel free to email me at **jackson.sz.han@gmail.com**.

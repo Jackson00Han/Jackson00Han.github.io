@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Hello!
+I'm Jackson Han, Chinese name: 韩善忠 (Hán Shànzhōng), a PhD graduate in theoretical physics, specializing in black holes, gravity theory, and quantum field theory. Currently, I work as a Machine Learning Engineer and Data Scientist, driven by a passion for integrating cutting-edge technology to make a positive impact on our society.
+
 
 ![]({{ base_path }}/images/me.jpg){: .align-center}
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About Me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,10 +10,23 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---------
+**University of Copenhagen, Niels Bohr Institute (NBIA)** – Copenhagen, Denmark  
+Ph.D. in Particle Physics, Sep 2019 – Jun 2023  
+
+**Beijing Normal University** – Beijing, China  
+M.S. in Theoretical Physics, Sep 2016 – Jun 2019  
+
+**Yantai University** – Yantai, China  
+B.Eng. in Applied Physics, Sep 2012 – Jun 2016  
+
+Exchange & Visiting Programs
+----------------------------
+**Queen Mary University of London** – London, UK  
+Exchange Ph.D. Student, Fall 2022  
+
+**Perimeter Institute for Theoretical Physics** – Waterloo, Canada  
+Visiting Master’s Student, Fall 2018
 
 Work experience
 ======

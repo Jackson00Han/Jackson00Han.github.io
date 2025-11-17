@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
----------
+======
 Ph.D. in Physics (Particle Physics), Niels Bohr Institute, University of Copenhagen, Denmark.    2019 – 2023  
 M.S. in Physics (Theoretical), Beijing Normal University, China.           2016 – 2019  
 B.Eng. in Applied Physics, Yantai University, China.                       2012 – 2016  
@@ -28,11 +28,12 @@ Work Experience
 Key Words
 ======
 * Machine Learning
-  * Time Series
-  * Recommenders
-  * Supervised/Unsupervised
-  * NLP
-  * LLM
+  - Time Series
+  - Recommenders
+  - Supervised/Unsupervised
+  - NLP
+  - LLM
+  {: .list-inline}
 * Programming
   * Python
   * SQL

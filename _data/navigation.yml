@@ -40,6 +40,15 @@ main:
     url: /zh/
     lang: zh
 
+  - title: "技术栈"
+    url: /zh/tools/
+    lang: zh
+
+  - title: "项目集"
+    url: /zh/portfolio/
+    lang: zh
+
+
   - title: "关于我"
     url: /zh/cv/
     lang: zh

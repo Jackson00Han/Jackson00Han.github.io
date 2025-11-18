@@ -5,6 +5,8 @@ collection: portfolio
 featured: true
 date: 2025-11-01
 permalink: /portfolio/item-1/
+lang: en
+ref: js
 ---
 
 This project tackles Kaggle's [Jane Street real-time time series market data forecasting challenge](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting), addressing heavy tails, non-stationarity, and abrupt regime shifts.

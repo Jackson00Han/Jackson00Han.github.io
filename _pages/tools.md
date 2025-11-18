@@ -2,6 +2,8 @@
 layout: single
 title: "Tools"
 permalink: /tools/
+lang: en
+ref: tools
 ---
 
 ### Languages

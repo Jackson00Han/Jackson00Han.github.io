@@ -32,6 +32,12 @@ main:
   - title: "Resources"
     url: /resources/
     
+  - title: "当前关注"
+    url: /zh/
+
+  - title: "关于我"
+    url: /zh/cv/
+    
   # - title: "CV"
   #   url: /cv-json/
     

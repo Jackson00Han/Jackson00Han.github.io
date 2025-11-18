@@ -83,6 +83,5 @@ The feature-importance plot highlights `pt2rel` as the most influential variable
 
 - Three different approaches (TensorFlow DNN, PyTorch DNN, XGBoost) all achieve **AUC ≈ 0.93+** on a compact, physics-motivated feature set.  
 - **XGBoost** is my preferred model here: it keeps performance high while providing clear feature importances that connect back to physical intuition.  
-- Next steps include extending the analysis to **regression of jet energy** and experimenting with dimensionality reduction (e.g. PCA) under stricter resource constraints.
 
 [Repo](https://github.com/Jackson00Han/Data-Science-Project-Diary/tree/main/physics)

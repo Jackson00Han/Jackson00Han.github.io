@@ -5,6 +5,8 @@ collection: portfolio
 featured: false
 date: 2023-05-25
 permalink: /portfolio/item-3/
+lang: en
+ref: bjet
 ---
 
 This project aims to select b-jets (b-quark) from the decays of the Z0 boson decaying to a quark and an anti-quark. Simply speaking, it is a binary classification problem. I'll develop XGBoost, NN-based TensorFlow and PyTorch machine learning methods to address this problem.  

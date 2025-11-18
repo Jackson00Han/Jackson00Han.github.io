@@ -2,6 +2,9 @@
 layout: single
 title: "Resources"
 permalink: /resources/
+
+lang: en
+ref: resources
 ---
 Thank you for joining me on this journey. I would like to share these resources,
 which have been invaluable in my training process.

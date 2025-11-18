@@ -48,11 +48,15 @@ main:
     url: /zh/portfolio/
     lang: zh
 
-
   - title: "关于我"
     url: /zh/cv/
     lang: zh
-    
+
+  - title: "资源"
+    url: /zh/resources/
+    lang: zh
+
+
   # - title: "CV"
   #   url: /cv-json/
     

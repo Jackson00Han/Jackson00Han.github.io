@@ -4,6 +4,7 @@ title: "关于我"
 permalink: /zh/cv/
 author_profile: true
 lang: zh
+ref: cv
 redirect_from:
   - /zh/resume
 ---

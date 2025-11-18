@@ -3,6 +3,7 @@ permalink: /zh/
 title: "当前关注"
 author_profile: true
 lang: zh
+ref: home
 ---
 
 

@@ -19,24 +19,30 @@ main:
   
   - title: "Tools"
     url: /tools/
+    lang: en
 
   - title: "Portfolio"
     url: /portfolio/
+    lang: en
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
   - title: "About Me"
     url: /cv/
+    lang: en
 
   - title: "Resources"
     url: /resources/
+    lang: en
     
   - title: "当前关注"
     url: /zh/
+    lang: zh
 
   - title: "关于我"
     url: /zh/cv/
+    lang: zh
     
   # - title: "CV"
   #   url: /cv-json/

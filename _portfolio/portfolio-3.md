@@ -26,3 +26,5 @@ Using ROC curves as the main evaluation tool, I then built and compared two clas
 - **Logistic Regression**
 
 For each model, I discussed how different **decision thresholds** would be chosen under different real-world scenarios (e.g. limited hospital capacity vs. minimizing missed emergencies).
+
+![](/images/covid.png)

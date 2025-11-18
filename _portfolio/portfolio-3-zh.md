@@ -13,7 +13,7 @@ ref: covid-urgency
 目标是：根据患者**出现新冠症状的时间点及相关信息**，预测其需要被送入医院治疗的紧急程度。
 
 代码仓库：  
-[Jackson00Han/Data-Science-Project-Diary](https://github.com/Jackson00Han/Data-Science-Project-Diary/blob/main/projects/Data_Science_with_Python/8.%20capstone%20project/4.%20roc/roc.ipynb)
+[Repo](https://github.com/Jackson00Han/Data-Science-Project-Diary/blob/main/projects/Data_Science_edx/8.%20capstone%20project/4.%20roc/roc.ipynb)
 
 ---
 
@@ -37,3 +37,5 @@ ref: covid-urgency
 
 - 用 EDA 找出与入院紧急程度高度相关的特征；
 - 在可解释性较强的经典模型上，结合 ROC/阈值分析，讨论在**真实医疗资源约束**下如何做决策。
+
+![](/images/covid.png)

@@ -9,7 +9,7 @@ lang: zh
 ref: js
 ---
 
-这个项目面向 Kaggle 的 [Jane Street 实时金融时间序列预测竞赛](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting)，需要处理 **重尾分布、非平稳性以及突发“体制切换”（regime shift）** 等典型金融时间序列难点。
+这个项目面向 Kaggle 的 [Jane Street 实时金融时间序列预测竞赛](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting)，需要处理 **重尾分布、非平稳性以及突发的结构性变动** 等典型金融时间序列难点。
 
 代码仓库：  
 [Jackson00Han/Jane-Street-Time-Series-Forecasting](https://github.com/Jackson00Han/Jane-Street-Time-Series-Forecasting/tree/main)

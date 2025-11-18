@@ -17,7 +17,7 @@ ref: home
 
 
 ## Featured projects
-{% assign featured = site.portfolio | where_exp: "p", "p.featured == true" | sort: "date" | reverse %}
+{% assign featured = site.portfolio | where_exp: "p", "p.featured == true" | where: "lang", page.lang | sort: "date" | reverse %}
 {% if featured and featured.size > 0 %}
 <ul>
 {% for p in featured limit:3 %}

@@ -5,6 +5,8 @@ collection: portfolio
 featured: false
 date: 2023-10-01
 permalink: /portfolio/item-4/
+lang: en
+ref: covid-urgency
 ---
 
 This project is my final training program for the course 'Introduction to Data Science with Python' offered by Harvard University. It aims to predict the urgency with which a COVID-19 patient will need to be admitted to the hospital from the time of onset of symptoms. 

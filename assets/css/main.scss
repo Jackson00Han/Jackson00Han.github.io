@@ -41,3 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.lang-switch {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.9rem;
+  text-align: right;      // 想靠右就留着，不想靠右就删掉这一行
+}
+
+.lang-switch__link {
+  text-decoration: none;
+}
+
+.lang-switch__link:hover {
+  text-decoration: underline;
+}

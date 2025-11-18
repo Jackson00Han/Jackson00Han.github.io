@@ -1,17 +1,36 @@
-{% assign translations = site.pages | where: "ref", page.ref %}
+{%- comment -%}
+  语言切换组件：
+  - 根据 page.ref 找到所有同一组的文档（不管在根目录还是在各个 collection，比如 _pages）
+  - 当前语言用 span 显示，其他语言用 a 链接
+{%- endcomment -%}
 
-{% if translations.size > 1 %}
-<div class="lang-switch">
-  {% for t in translations %}
-    {% if t.lang == page.lang %}
-      <span class="lang-switch__current">
-        {% if t.lang == "en" %}English{% elsif t.lang == "zh" %}中文{% else %}{{ t.lang | upcase }}{% endif %}
-      </span>
-    {% else %}
-      <a href="{{ t.url | relative_url }}" class="lang-switch__link">
-        {% if t.lang == "en" %}English{% elsif t.lang == "zh" %}中文{% else %}{{ t.lang | upcase }}{% endif %}
-      </a>
-    {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
+{%- if page.ref -%}
+
+  {%- assign translations = site.pages | where: "ref", page.ref -%}
+
+  {%- for collection in site.collections -%}
+    {%- assign coll_docs = collection.docs | where: "ref", page.ref -%}
+    {%- assign translations = translations | concat: coll_docs -%}
+  {%- endfor -%}
+
+  {%- if translations.size > 1 -%}
+  <div class="lang-switch">
+    {%- for t in translations -%}
+      {%- if t.lang == page.lang -%}
+        <span class="lang-switch__current">
+          {%- if t.lang == "en" -%}English
+          {%- elsif t.lang == "zh" -%}中文
+          {%- else -%}{{ t.lang | upcase }}{%- endif -%}
+        </span>
+      {%- else -%}
+        <a href="{{ t.url | relative_url }}" class="lang-switch__link">
+          {%- if t.lang == "en" -%}English
+          {%- elsif t.lang == "zh" -%}中文
+          {%- else -%}{{ t.lang | upcase }}{%- endif -%}
+        </a>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+
+{%- endif -%}

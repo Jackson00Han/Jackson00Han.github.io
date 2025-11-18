@@ -5,6 +5,8 @@ collection: portfolio
 featured: false
 date: 2025-11-17
 permalink: /portfolio/item-2/
+lang: en
+ref: eu-energy
 ---
 
 This is a brief intro to my recent project where I trained a robust model to forecast **day-ahead hourly electricity prices**.  

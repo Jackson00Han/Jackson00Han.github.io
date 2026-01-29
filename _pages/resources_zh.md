@@ -31,7 +31,7 @@ ref: resources
 - **机器学习：**  
   [Applied Machine Learning（Troels C. Petersen, Charles L. Steinhardt，NBI）](https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2023.html)
 
-- **机器学习专项：**  
+- **机器学习：**  
   [Machine Learning Specialization（Andrew Ng，斯坦福大学）](https://www.coursera.org/specializations/machine-learning-introduction)
 
 - **概率论：**  
@@ -39,6 +39,7 @@ ref: resources
 
 - **时间序列分析：**  
   [Introduction to Time Series (UC Berkeley)](https://stat153.berkeley.edu/fall-2025/) 
+
 - **时间序列分析：**  
   [Sequences, Time Series and Prediction（Laurence Moroney，DeepLearning.AI）](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 

@@ -21,9 +21,8 @@ which have been invaluable in my training process.
 - **Machine Learning:** [Applied Machine Learning. (Instructors: Troels C. Petersen, Charles L. Steinhardt, NBI)](https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2023.html)
 - **Machine Learning:** [Machine Learning Specialization. (Instructor: Andrew Ng. Stanford University)](https://www.coursera.org/specializations/machine-learning-introduction)
 - **Probability:** [Fat Chance: Probability from the Ground Up. (Instructors: Benedict H. Gross, Joseph Harris, Harvard University, and Emily Riehl, Johns Hopkins University)](https://pll.harvard.edu/course/data-analysis-basic-probability-and-statistics)
-- **Time Series Analysis:** 
-    [Sequences, Time Series and Prediction. (Instructor: Laurence Moroney, DeepLearning.AI)](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-    [Introduction to Time Series (UC Berkeley)](https://stat153.berkeley.edu/fall-2025/) 
+- **Time Series Analysis:** [Sequences, Time Series and Prediction. (Instructor: Laurence Moroney, DeepLearning.AI)](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+- **Time Series Analysis:** [Introduction to Time Series (UC Berkeley)](https://stat153.berkeley.edu/fall-2025/) 
 
 
 ### Videos:

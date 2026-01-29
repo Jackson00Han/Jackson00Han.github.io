@@ -39,6 +39,7 @@ ref: resources
 
 - **时间序列分析：**  
   [Introduction to Time Series (UC Berkeley)](https://stat153.berkeley.edu/fall-2025/) 
+- **时间序列分析：**  
   [Sequences, Time Series and Prediction（Laurence Moroney，DeepLearning.AI）](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 

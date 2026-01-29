@@ -38,7 +38,9 @@ ref: resources
   [Fat Chance: Probability from the Ground Up（Benedict H. Gross, Joseph Harris, Emily Riehl 等）](https://pll.harvard.edu/course/data-analysis-basic-probability-and-statistics)
 
 - **时间序列分析：**  
+  [Introduction to Time Series (UC Berkeley)](https://stat153.berkeley.edu/fall-2025/) 
   [Sequences, Time Series and Prediction（Laurence Moroney，DeepLearning.AI）](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+
 
 
 ### 视频 Videos
@@ -53,6 +55,5 @@ ref: resources
 - [DataCamp](https://www.datacamp.com/)
 - [Hugging Face](https://huggingface.co/)
 - [Coursera](https://www.coursera.org/)
-
 我会在发现新的优质资源时持续更新这个页面。  
 如果你有想推荐的书、课程或项目，也欢迎发邮件给我：**jackson.sz.han@gmail.com**。

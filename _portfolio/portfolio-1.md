@@ -24,5 +24,8 @@ To balance training time, complexity, and accuracy, I started with LightGBM. My 
 - **Memory-mapped** arrays for quicker reloads and lower peak RAM during training.
 
 
-Note: I also tried Temporal Fusion Transformer. Even with subsampling and a lighter configuration, training was slow, and inference became heavy with longer encoder windows. For large, high-frequency datasets, I’d use tree-based models as the first pass and only move to deep models when they clearly win on both accuracy and runtime.
+Note: 
 
+I also tried Temporal Fusion Transformer. Even with subsampling and a lighter configuration, training was slow, and inference became heavy with longer encoder windows. For large, high-frequency datasets, I’d use tree-based models as the first pass and only move to deep models when they clearly win on both accuracy and runtime.
+
+Additionally, since many of the top public leaderboard solutions use GRU/LSTM models, I deliberately took a different approach here. For reference, I also provide a lightweight custom dual-head LSTM forecasting example for high-frequency time series in my [`market_forecasting`](https://github.com/Jackson00Han/market_forecasting) repo.

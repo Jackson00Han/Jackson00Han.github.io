@@ -48,3 +48,5 @@ ref: js
 
 - **第一轮优先尝试树模型（如 LightGBM / XGBoost）**，用来快速探索特征和上线效果  
 - 只有在明确看到深度模型在**精度和效率**上都有明显收益时，才值得进一步投入到复杂的序列建模架构上
+
+另外，公开排行榜上的许多高分方案都采用了 GRU/LSTM。我在本项目中有意选择了不同的建模路线；同时也在 [`market_forecasting`](https://github.com/Jackson00Han/market_forecasting) 仓库里提供了一个用于高频时间序列预测的简洁自定义双输出头（dual-head）LSTM 示例，供参考。

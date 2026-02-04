@@ -1,6 +1,6 @@
 ---
-title: "联邦学习反洗钱（AML）流水线"
-excerpt: "各银行在本地基于账户级 SAR 标签训练模型，仅共享模型更新，在不共享原始交易数据的前提下学习跨行的可疑账户检测器。<br/><img src='/images/fl.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
+title: "联邦学习反洗钱（AML）系统"
+excerpt: "各银行在本地基于账户级 SAR 标签分布式训练模型，仅共享模型更新，在不共享原始交易数据的前提下学习跨行的可疑账户检测器。<br/><img src='/images/fl.png' style='max-width:400px;width:100%;height:auto;display:block;'>"
 collection: portfolio
 featured: false
 date: 2025-12-20

@@ -9,7 +9,7 @@ lang: zh
 ref: decentralized-aml
 ---
 
-Decentralized AML Demonstrator 是一个紧凑的 **联邦学习（FL）** 反洗钱演示流水线，基于 **AMLSim** 生成的多银行零售交易数据。在该设置下，各银行在本地使用**账户级 SAR 标签**训练模型，只上传模型更新，不共享原始交易数据。
+本项目是一个精简版的 **联邦学习（FL）** 反洗钱系统，基于 **AMLSim** 生成的多银行零售交易数据。在该设置下，各银行在本地使用**账户级 SAR 标签**训练模型，只上传模型更新，不共享原始交易数据。通过FL方法，结果显示模型表现全面优于各银行单独训练的基线模型，同时保护了数据隐私。
 
 代码仓库：  
 [Jackson00Han/decentralized_aml_demonstrator](https://github.com/Jackson00Han/decentralized_aml_demonstrator)

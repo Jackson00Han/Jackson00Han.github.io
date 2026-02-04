@@ -9,7 +9,7 @@ lang: en
 ref: decentralized-aml
 ---
 
-Decentralized AML Demonstrator is a compact **federated learning (FL)** pipeline for **bank anti-money laundering (AML)** on **AMLSim-generated multi-bank retail transaction data**. Each bank trains locally on labeled **account-level SAR** data and shares only model updates—no raw transactions.
+Decentralized AML Demonstrator is a compact **federated learning (FL)** pipeline for **bank anti-money laundering (AML)** on **AMLSim-generated multi-bank retail transaction data**. Each bank trains locally on labeled **account-level SAR** data and shares only model updates—no raw transactions. Through FL, the results show consistent improvements over local-only baselines while preserving data privacy.
 
 Repo: [Jackson00Han/decentralized_aml_demonstrator](https://github.com/Jackson00Han/decentralized_aml_demonstrator)
 
